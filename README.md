@@ -15,7 +15,9 @@ I have taken a course on Sophia.org in preparation to start my Computer Science 
 
 <h2>High-Level Steps</h2>
 - I went through the Sophia Introduction to Python Course to gain a high-level overview of basic programming steps and use cases.
+<br>
 - I watched a few example project videos from Youtube to gain a better understanding of use cases. 
+<br>
 - I wanted to find something relatively simple, but useful to daily life (my brother competes in BJJ) and came up with this calculator.
 
 <h2>Actions and Observations</h2>
